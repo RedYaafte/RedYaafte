@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Yafté GitHub stats](https://github-readme-stats.vercel.app/api?username=redyaafte&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redyaafte&exclude_repo=github-readme-stats,redyaafte.github.io&layout=compact&theme=merko)](https://github.com/redyaafte/github-readme-stats)
+
