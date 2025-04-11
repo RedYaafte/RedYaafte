@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![RedYaafte github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RedYaafte)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RedYaafte github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RedYaafte&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Yafté GitHub stats](https://github-readme-stats.vercel.app/api?username=redyaafte&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&theme=merko)
 
