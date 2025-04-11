@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 [![RedYaafte github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RedYaafte&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Yafté GitHub stats](https://github-readme-stats.vercel.app/api?username=redyaafte&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&theme=merko)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redyaafte&exclude_repo=github-readme-stats,redyaafte.github.io&layout=compact&theme=merko)](https://github.com/redyaafte/github-readme-stats)
 
